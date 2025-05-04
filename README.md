@@ -27,6 +27,7 @@ Special thanks to **Google** for providing such a robust certification program a
 
 This six-month program equipped me with foundational and practical knowledge of cybersecurity concepts and tools. I learned about the critical role cybersecurity plays in protecting organizations from cyber threats and gained hands-on experience using Security Information and Event Management (SIEM) tools to protect networks, devices, data, and users from unauthorized access. The program also helped me identify common risks, threats, and vulnerabilities, along with effective mitigation strategies. I developed practical skills using Python, Linux, and SQL through well-designed videos, labs, quizzes, and curated study materials—preparing me for entry-level roles in cybersecurity.
 
+
 **Key Focus Areas:**
 
 **Foundations of Cybersecurity**
