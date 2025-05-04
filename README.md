@@ -29,7 +29,7 @@ This six-month program equipped me with foundational and practical knowledge of 
 
 
 
-Key Focus Areas:
+### Key Focus Areas:
 
 **Foundations of Cybersecurity**
 
