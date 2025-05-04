@@ -30,6 +30,7 @@ This six-month program equipped me with foundational and practical knowledge of 
 **Key Focus Areas:**
 
 **Foundations of Cybersecurity**
+
 I developed an understanding of the core skills required for cybersecurity analysts. I learned how cyberattacks can impact business operations, the importance of ethical practices, and key tools used in the industry. Skills gained include:
 •	Cloud networking
 •	Network security and hardening
@@ -37,6 +38,7 @@ I developed an understanding of the core skills required for cybersecurity analy
 •	TCP/IP protocols
 
 **Managing Security Risks**
+
 This module covered how to identify threats, vulnerabilities, and risks, and how organizations apply frameworks and controls to protect business operations. I explored the use of SIEM tools and response playbooks. Skills gained:
 •	Information security
 •	Security audits
@@ -44,16 +46,19 @@ This module covered how to identify threats, vulnerabilities, and risks, and how
 •	NIST RMF & CSF frameworks
 
 **Networks and Network Security**
+
 I studied network components and data transmission, along with methods to secure networks against intrusions. I also explored system hardening techniques. Key skills acquired:
 •	Command Line Interface (CLI)
 •	Bash scripting
 
 **Linux and SQL**
+
 I learned how operating systems interact with applications and hardware, the difference between graphical and command-line interfaces, and how to navigate file systems using Linux commands. I also practiced retrieving data using SQL queries. Skills gained:
 •	Linux
 •	SQL
 
 **Assets, Threats, and Vulnerabilities**
+
 This section focused on asset classification, analyzing attack surfaces, and identifying threats like social engineering and malware. I also learned how to model threats and communicate effectively with stakeholders. Skills gained:
 •	Threat analysis
 •	Vulnerability assessment
@@ -62,17 +67,20 @@ This section focused on asset classification, analyzing attack surfaces, and ide
 •	Escalation and discretion
 
 **Detection and Response**
+
 I was trained to analyze network traffic, detect and respond to incidents using tools like Suricata, Splunk, and Chronicle. I developed skills in interpreting logs and packets, and writing queries to investigate events in SIEM platforms. Tools mastered:
 •	Splunk
 •	Suricata
 •	Chronicle
 
 **Automating Cybersecurity Tasks with Python**
+
 I learned how Python is used in cybersecurity to automate repetitive tasks. I created custom functions, used regular expressions for data extraction, and practiced debugging techniques. Skills gained:
 •	Python scripting
 •	Automation
 
 **Preparing for Cybersecurity Jobs**
+
 This final part of the program taught me how to engage with the cybersecurity community, when and how to escalate incidents, and how to search, apply, and interview for jobs in the field.
 ________________________________________
 This portfolio, along with future projects, represents my dedication to mastering cybersecurity skills. As the demand for cybersecurity professionals grows due to advancing technology and evolving threats, I am committed to continuous learning and training to add value in any role I undertake.
